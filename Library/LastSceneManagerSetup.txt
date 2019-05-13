@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scenes/Titulos del Inicio.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/PlayGround Pack/Scenes/Nivel 1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Escena Parque.unity
+  isLoaded: 0
+  isActive: 0
